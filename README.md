@@ -6,7 +6,7 @@ Download link for the dataset is [here](https://uofi.box.com/s/qn99omy53muyi9a4z
 ### Motivation
 Online social networks such as Twitter and Weibo play an important role in how people stay informed and exchange reactions. In particular, online social networks during crisis events embody a key opportunity for studying the portability of computational models for various tasks (e.g., information extraction, complex event understanding, misinformation detection, etc.), due to differences in domain, entities, and event types. We, from UIUC, present the **Russia-Ukraine Crisis Weibo (RUW) dataset**, with over 3.5M public user posts and comments in our first release.
 
-![image](https://user-images.githubusercontent.com/81369617/167262526-d84739fa-7803-4557-bb6d-fec00cd45f88.png>200)
+![image](https://user-images.githubusercontent.com/81369617/167262526-d84739fa-7803-4557-bb6d-fec00cd45f88.png<200)
 ### Dataset Details
 We initiated our data collection process when the crisis escalated with Russia's special military operation on the last week of Feb 2022. The following information are included in the *Russia-Ukraine Crisis Weibo (RUW)* dataset:
 |      |  |
