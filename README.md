@@ -4,7 +4,7 @@
 Download link for the dataset is [here](https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows).
 
 ### Motivation
-Online social networks such as Twitter and Weibo play an important role in how people stay informed and exchange reactions. In particular, online social networks during crisis events embody a key opportunity for studying the portability of computational models for various tasks (e.g., information extraction, complex event understanding, misinformation detection, etc.), due to differences in domain, entities, and event types. We, from UIUC, present the **Russia-Ukraine Crisis Weibo (RUW) dataset**, with over 3.5M public user posts and comments in our first release.
+Online social networks such as Twitter play an important role in how people stay informed and exchange reactions. In particular, online social networks during crisis events embody a key opportunity for studying the portability of computational models for various tasks (e.g., information extraction, complex event understanding, misinformation detection, etc.), due to differences in domain, entities, and event types. Wepresent the **Russia-Ukraine Crisis dataset**, with over 500K public user posts and comments in our first release.
 
 ![image](https://user-images.githubusercontent.com/81369617/167262526-d84739fa-7803-4557-bb6d-fec00cd45f88.png)
 ### Dataset Details
