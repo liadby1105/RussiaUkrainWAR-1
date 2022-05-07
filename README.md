@@ -8,7 +8,7 @@ Online social networks such as Twitter play an important role in how people stay
 
 ![image](https://user-images.githubusercontent.com/81369617/167262526-d84739fa-7803-4557-bb6d-fec00cd45f88.png)
 ### Dataset Details
-We initiated our data collection process when the crisis escalated with Russia's special military operation on the last week of Feb 2022. The following information are included in the *Russia-Ukraine Crisis Weibo (RUW)* dataset:
+We initiated our data collection process when the crisis escalated with Russia's special military operation on the last week of Feb 2022. The following information are included in the *Russia-Ukraine Crisis* dataset:
 |      |  |
 | ----------- | ----------- |
 | user information     | profile ID, profile name, profile image, profile description, \# of followers     |
