@@ -20,7 +20,7 @@ We initiated our data collection process when the crisis escalated with Russia's
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Twitter dataset. These include event clustering, false rumor detection, protability of news analytic methodologies across Twitter.
 
 ### Related Work
-A team at Kaggle has released a [Russo-Ukranian Crises Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset). It is generally interesting to uncover patterns universal across platforms, regulated by a separate set of rules and participated by a separate set of users with different user behavior. Note that Twitter data (multilingual) involves English as the primary language.
+A team at Git has released a [Russo-Ukranian Crises Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset). It is generally interesting to uncover patterns universal across platforms, regulated by a separate set of rules and participated by a separate set of users with different user behavior. Note that Twitter data (multilingual) involves English as the primary language.
 
 
 Authors contact information: Benezra977@gmail.com / Liadby1105@gmail.com / Levirotem4@gmail.com
