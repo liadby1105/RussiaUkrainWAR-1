@@ -12,7 +12,7 @@ We initiated our data collection process when the crisis escalated with Russia's
 |      |  |
 | ----------- | ----------- |
 | user information     | username, location, following, followers, \# of followers     |
-| post content  | the main text, as well as any images and videos attached, if available      |
+| post content  | the main text      |
 | post metadata  | the \# of likes \& shares on the post, and the publication timestamp of the post    |
 | post comments | information similar to the previous three rows, for all comments underneath a user post      |
 
