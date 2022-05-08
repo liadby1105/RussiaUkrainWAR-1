@@ -11,7 +11,7 @@ Online social networks such as Twitter play an important role in how people stay
 We initiated our data collection process when the crisis escalated with Russia's special military operation on April first till April 10th, that because we were trying to bring a specific data regarding what happened in Kyiev, the capital city of Ukrain. in that time Russia almost took over the capital of Ukraine and we could have seen that the comments all over the internet changing from side to side. The following information are included in the *Russia-Ukraine Crisis* dataset:
 |      |  |
 | ----------- | ----------- |
-| user information     | profile ID, profile name, profile image, profile description, \# of followers     |
+| user information     | username, location, following, followers, \# of followers     |
 | post content  | the main text, as well as any images and videos attached, if available      |
 | post metadata  | the \# of likes \& shares on the post, and the publication timestamp of the post    |
 | post comments | information similar to the previous three rows, for all comments underneath a user post      |
